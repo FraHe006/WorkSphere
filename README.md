@@ -100,26 +100,7 @@ Dirigida a **usuarios expertos** que quieran crear microlecciones educativas:
 
 **Compatibilidad:** la app de escritorio, al ejecutarse sobre la JVM, es compatible con cualquier sistema operativo que disponga de un runtime de Java (Windows, Linux, macOS), sin dependencias de APIs nativas de una plataforma concreta.
 
-## Estructura del proyecto
-
-El servidor organiza su lógica en seis directorios principales:
-
-```
-server/
-├── sockets/       # Lógica de Socket.io (chat en tiempo real)
-├── routes/        # Definición de endpoints (usuarios, amistades, conversaciones,
-│                  # actividades, correos, copia de seguridad)
-├── controllers/   # Lógica de negocio de cada endpoint
-├── services/      # Servicios auxiliares, invocación de los scripts de Python
-├── scripts/       # Scripts de Python (p. ej., envío de correos)
-└── backup/        # Script .ps1 para la copia de seguridad de MongoDB y MySQL
-```
-
-> Ajusta los nombres de carpeta anteriores a los que uses realmente en tu repositorio (por ejemplo, si separas `web/`, `mobile/` y `desktop/` como paquetes independientes junto a `server/`).
-
 ## Puesta en marcha
-
-> Los pasos exactos dependerán de cómo organices finalmente el repositorio; esto es una guía orientativa a partir de las tecnologías usadas en el proyecto.
 
 ### Requisitos previos
 
