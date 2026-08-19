@@ -19,7 +19,6 @@ WorkSphere es una plataforma multiplataforma (web, móvil y escritorio) que busc
   - [App móvil](#app-móvil)
   - [App de escritorio](#app-de-escritorio)
 - [Tecnologías](#tecnologías)
-- [Estructura del proyecto](#estructura-del-proyecto)
 - [Puesta en marcha](#puesta-en-marcha)
 - [Testing](#testing)
 - [Uso de IA en el desarrollo](#uso-de-ia-en-el-desarrollo)
