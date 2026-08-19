@@ -132,7 +132,7 @@ server/
 ### Servidor
 
 ```bash
-cd server
+cd Servidor
 npm install
 # Configura las variables de entorno (credenciales de MongoDB, MySQL, correo, etc.)
 npm start
@@ -141,7 +141,7 @@ npm start
 ### App web
 
 ```bash
-cd web
+cd WorkNet-WorkHub
 npm install
 npm start
 ```
@@ -149,7 +149,7 @@ npm start
 ### App móvil
 
 ```bash
-cd mobile
+cd WorkQuiz
 flutter pub get
 flutter run
 ```
@@ -157,7 +157,7 @@ flutter run
 ### App de escritorio
 
 ```bash
-cd desktop
+cd WorkDocs
 ./gradlew build
 ./gradlew run
 ```
