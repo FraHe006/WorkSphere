@@ -21,7 +21,6 @@ WorkSphere es una plataforma multiplataforma (web, móvil y escritorio) que busc
 - [Tecnologías](#tecnologías)
 - [Puesta en marcha](#puesta-en-marcha)
 - [Testing](#testing)
-- [Uso de IA en el desarrollo](#uso-de-ia-en-el-desarrollo)
 - [Autora](#autora)
 
 ---
@@ -145,10 +144,6 @@ cd WorkDocs
 ## Testing
 
 Las pruebas unitarias se han realizado con **JUnit 5**, centradas en la app de escritorio: generación de códigos de validación, parsing de JSON (`extraerCampo`, `extraerBooleano`, `escapeJson`) y validación de datos en la creación de juegos (por ejemplo, del tipo Verdadero/Falso).
-
-## Uso de IA en el desarrollo
-
-Como parte del ciclo DAM, se ha utilizado Claude (Sonnet 4.6) como apoyo en tareas repetitivas del desarrollo (interfaz, funciones del servidor, conexiones cliente-servidor, casos de prueba), manteniendo en todo momento la autoría, revisión crítica y validación técnica del código por parte de la autora del proyecto.
 
 ## Autora
 
