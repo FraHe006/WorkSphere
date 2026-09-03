@@ -8,7 +8,7 @@ WorkSphere es una plataforma multiplataforma (web, móvil y escritorio) que comb
 > CPR Plurilingüe Karbo · Curso 2025/2026 · Entrega: junio de 2026
 > Autora: Helena Franz Folgueira
 
-📄 **[Memoria completa del proyecto (PDF)](docs/WorkSphere - Helena Franz Folgueira-Memoria.pdf)**
+📄 **[Memoria completa del proyecto (PDF)](docs/WorkSphere-HelenaFranzFolgueira-Memoria.pdf)**
 
 ---
 
